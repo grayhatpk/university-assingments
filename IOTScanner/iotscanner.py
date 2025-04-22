@@ -9,7 +9,7 @@ from requests.exceptions import ReadTimeout
 import threading
 from docx import Document
 
-api_key = "01hy8tnhzb6k91zfmc48hesx3h01hy8tp95f6d006dts2pmjnyyslfzdnhovlnwp"
+api_key = "for CVEs"
 
 current_text_area = None  # Global variable to keep track of the current text area
 
